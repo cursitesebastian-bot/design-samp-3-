@@ -1,7 +1,7 @@
 import "./style.css";
 
 export const metadata = {
-  title: "Creative App",
+  title: "normal to behave and be app",
   description: "A simple Next.js page",
 };
 
